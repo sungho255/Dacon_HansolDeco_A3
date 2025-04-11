@@ -4,5 +4,9 @@ __pycache__/
 *.pyo
 .vscode
 .venv
+
+*.safetensors
+*.bin
+
 건설안전지침/
 DB/
