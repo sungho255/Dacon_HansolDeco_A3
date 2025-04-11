@@ -1,0 +1,8 @@
+### Python ###
+__pycache__/
+*.pyc
+*.pyo
+.vscode
+.venv
+건설안전지침/
+DB/
