@@ -91,4 +91,4 @@
 
 본 프로젝트의 파인튜닝된 모델 파일 및 일부 대용량 폴더는 GitHub의 업로드 용량 제한(100MB)을 초과하여  
 레포지토리에서 제외되었습니다.  
-제외된 모델 파일 관련 자세한 사항은 [`Model/kobart7/MODEL_notice.txt`](Model/kobart7/MODEL_notice.txt)를 참고해주세요.
+제외된 모델 파일 관련 자세한 사항은 [`Model/kobart7/Model_notice.txt`](Model/kobart7/Model_notice.txt)를 참고해주세요.
